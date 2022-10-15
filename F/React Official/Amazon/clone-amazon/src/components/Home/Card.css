@@ -1,0 +1,10 @@
+.card-div img {
+  height: 95px;
+  width: 140px;
+  object-fit: contain;
+}
+
+.span-text {
+  font-size: 0.89rem;
+  font-weight: 400;
+}

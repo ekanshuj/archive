@@ -1,0 +1,2 @@
+//For image as the image api provide is divided into three different parts. For complete info, go over the api documentation for a moment. It will help a lot.
+export const poster_img = 'https://image.tmdb.org/t/p/w300';

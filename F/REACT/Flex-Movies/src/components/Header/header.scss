@@ -1,0 +1,12 @@
+$mainColor: #0d253f;
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  background: black;
+  font-family: "Indie Flower", cursive;
+  z-index: 100;
+  cursor: pointer;
+}

@@ -1,0 +1,24 @@
+.header {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  position: fixed;
+  font-size: 6vh;
+  background-color: #0d253f;
+  color: green;
+  font-family: "Indie Flower", cursive;
+  font-weight: 900;
+  text-transform: capitalize;
+  padding-bottom: 0.9rem;
+  z-index: 100;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+/*# sourceMappingURL=header.css.map */

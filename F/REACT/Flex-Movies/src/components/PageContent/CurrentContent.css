@@ -1,0 +1,32 @@
+.current {
+  color: ghostwhite;
+  padding-top: 0rem;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin: 2rem;
+}
+
+.current-desp {
+  margin-top: 1rem;
+  margin: 1rem 0rem;
+  text-transform: uppercase;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.current-img {
+  border: 0.5px solid ghostwhite;
+  border-radius: 0rem 0rem 0.89rem 0rem;
+}
+/*# sourceMappingURL=CurrentContent.css.map */
